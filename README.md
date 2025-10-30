@@ -26,20 +26,20 @@ Su propósito es aplicar herramientas de **analítica de datos** e **inteligenci
 El análisis se desarrolla con un dataset **bioinformático de uso abierto**.
 
 
-# Objetivos
+## Objetivos
 - Aplicar metodologías técnicas para la **limpieza, transformación y análisis estadístico de datos**
 - Integrar IA generativa en tareas de procesamiento, análisis y documentación
 - Interpretar resultados desde una perspectiva funcional orientada a decisiones
 
 
 
-#  Dataset
+##  Dataset
  **Breast Cancer Wisconsin Dataset**  
 Aplicado en bioinformática para diagnóstico temprano del cáncer de mama.
 
 > Este dataset no contiene datos personales identificables.
 
-# ¿Cómo ejecutar los notebooks?
+## ¿Cómo ejecutar los notebooks?
 
 1️. Abrir cada archivo `.ipynb`  
 2️. Hacer clic en el botón:  
@@ -50,17 +50,18 @@ Aplicado en bioinformática para diagnóstico temprano del cáncer de mama.
 - Cuenta de Google
 
 
-# Autor
+## Autor
 > **Nombre:** Leon, E. 
 > **Instructor:** Javier Perez Campo
 
 
 
-# Referencias
+## Referencias
 - Componentes formativos SENA:  
   [_Recolección, tratamiento y visualización de datos para IA_]()  
   [_Estrategias de integración y análisis de datos mediante IA_]()
 - [Biblioteca científica UCI Machine Learning Repository (datos bioinformáticos)]()
+
 
 
 
