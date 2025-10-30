@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/SENA_Colombia_logo.svg" alt="Logo SENA" width="120">
+  <img src="docs/img/logo.png" alt="Logo SENA" width="120">
 </p>
 
 <h1 align="center">
@@ -61,3 +61,4 @@ Aplicado en bioinformática para diagnóstico temprano del cáncer de mama.
   [_Recolección, tratamiento y visualización de datos para IA_]()  
   [_Estrategias de integración y análisis de datos mediante IA_]()
 - [Biblioteca científica UCI Machine Learning Repository (datos bioinformáticos)]()
+
