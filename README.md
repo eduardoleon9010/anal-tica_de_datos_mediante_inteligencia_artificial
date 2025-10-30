@@ -41,9 +41,8 @@ Aplicado en bioinformática para diagnóstico temprano del cáncer de mama.
 
 ## ¿Cómo ejecutar los notebooks?
 
-1️. Abrir cada archivo `.ipynb`  
-2️. Hacer clic en el botón:  
-**“Abrir en Google Colab”**
+1. Abrir cada archivo `.ipynb`  
+2. Abrir en Google Colab
 
  Requisitos:
 - Conexión a Internet
@@ -61,6 +60,7 @@ Aplicado en bioinformática para diagnóstico temprano del cáncer de mama.
   [_Recolección, tratamiento y visualización de datos para IA_]()  
   [_Estrategias de integración y análisis de datos mediante IA_]()
 - [Biblioteca científica UCI Machine Learning Repository (datos bioinformáticos)]()
+
 
 
 
