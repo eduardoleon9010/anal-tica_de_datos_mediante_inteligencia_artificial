@@ -6,13 +6,13 @@
   AA2 – Analítica de Datos mediante Inteligencia Artificial
 </h1>
 
-<p align="center">
+
   <strong>Programa SENA:</strong> Aplicación de la inteligencia artificial en la integración de datos <br>
   <strong>Código del programa:</strong> 21720207 <br>
   <strong>Competencia:</strong> 220501115 – Integrar datos según procedimiento técnico y especificaciones de proceso de negocio <br>
   <strong>Resultado de aprendizaje:</strong><br>
   220501115-02. Procesar datos implementando herramientas de IA generativa, procedimiento técnico y metodología estadística.
-</p>
+
 
 ## Introduccion
 Este repositorio contiene el desarrollo de las actividades prácticas asociadas a la **Actividad de aprendizaje AA2** de la guía de formación del SENA.  
@@ -61,4 +61,5 @@ Aplicado en bioinformática para diagnóstico temprano del cáncer de mama.
   [_Recolección, tratamiento y visualización de datos para IA_]()  
   [_Estrategias de integración y análisis de datos mediante IA_]()
 - [Biblioteca científica UCI Machine Learning Repository (datos bioinformáticos)]()
+
 
