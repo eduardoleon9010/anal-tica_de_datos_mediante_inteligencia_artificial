@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  AA2 – Analítica de Datos mediante Inteligencia Artificial
+  Analítica de Datos mediante Inteligencia Artificial
 </h1>
 
 
@@ -61,6 +61,7 @@ Aplicado en bioinformática para diagnóstico temprano del cáncer de mama.
   [_Recolección, tratamiento y visualización de datos para IA_]()  
   [_Estrategias de integración y análisis de datos mediante IA_]()
 - [Biblioteca científica UCI Machine Learning Repository (datos bioinformáticos)]()
+
 
 
 
